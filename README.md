@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><Cyber Security Analyst</a> </h1>
+<h1>Hi, I'm Joshua Crull! <br/><Cyber Security Analyst</a> </h1>
 
 <h2>👨‍💻 Cyber Secuirty Projects:</h2>
 
