@@ -1,4 +1,6 @@
 Hi, I'm Josh!
+
+
 Programmer, Cybersecurity Professional, YouTuber
 👨‍💻 Software Development Projects:
 Data Structures and Algorithms Practice (AlgoExpert)
