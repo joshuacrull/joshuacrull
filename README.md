@@ -6,8 +6,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Creating Malware Analysis Box</b>
   - [Installation guide](https://github.com/joshuacrull/MalwareAnalysisLab)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Malware Anaylysis Reports</b>
+  - [Report](https://github.com/joshuacrull/MalwareAnalysisLab)
     
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
