@@ -7,7 +7,7 @@
 - <b>Creating Malware Analysis Box</b>
   - [Installation guide](https://github.com/joshuacrull/MalwareAnalysisLab)
 - <b>Malware Anaylysis Reports</b>
-  - [Report](https://github.com/joshuacrull/MalwareAnalysisLab)
+  - [Report](https://github.com/joshuacrull/Malware-Analysis-Reports)
 
 - <b>Splunk SIEM</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/joshmadakor1/Sentinel-Lab)
