@@ -13,7 +13,6 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/joshmadakor1/Sentinel-Lab)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
