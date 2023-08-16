@@ -5,7 +5,7 @@
 - <b>Installing and Running Suricata </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Creating Malware Analysis Box</b>
-  - https://github.com/joshuacrull/MalwareAnalysisLab
+  - (https://github.com/joshuacrull/MalwareAnalysisLab)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
     
