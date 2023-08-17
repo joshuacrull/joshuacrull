@@ -12,7 +12,8 @@
 - <b>Splunk SIEM</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/joshmadakor1/Sentinel-Lab)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+  - 
+- <b>Passowrd Crackin in Kali Linux</b>
 
 
 <h2> 🤳 Connect with me:</h2>
