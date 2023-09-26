@@ -18,7 +18,14 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+<head>
+    <title>LinkedIn Button</title>
+</head>
+<body>
 
+<button onclick="window.location.href='https://www.google.com'">Go to LinkedIn</button>
+
+</body>
 
 
 
