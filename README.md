@@ -18,17 +18,8 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<head>
-    <title>LinkedIn Button</title>
-</head>
-<body>
+- <b>LinkedIN1</b>
+  - [LinkedIN](https://linkedin.com/in/joshcrull)
 
-<button onclick="window.location.href='https://www.google.com'">Go to LinkedIn</button>
-
-</body>
-
-
-
-[linkedin]: https://linkedin.com/in/joshcrull
 
 
