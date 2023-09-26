@@ -18,7 +18,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-- <b>LinkedIN1</b>
+
   - [LinkedIN](https://linkedin.com/in/joshcrull)
 
 
