@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Secuirty Projects:</h2>
 
-- <b>Installing and Running Suricata </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshcrull)
+- <b>Wazuh SIEM with Suricata IDS</b>
+  - [Installation and Configuration Guide](https://github.com/joshcrull)
 - <b>Creating Malware Analysis Box</b>
   - [Installation guide](https://github.com/joshuacrull/MalwareAnalysisLab)
 - <b>Malware Anaylysis Reports</b>
@@ -13,9 +13,6 @@
 - <b>Splunk SIEM</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/joshmadakor1/Sentinel-Lab)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - 
-- <b>Passowrd Crackin in Kali Linux</b>
-
 
 <h2> 🤳 Connect with me:</h2>
 
