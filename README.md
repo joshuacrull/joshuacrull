@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Wazuh SIEM with Suricata IDS</b>
-  - [Installation and Configuration Guide](https://github.com/joshcrull)
+  - [Installation and Configuration Guide](https://github.com/joshuacrull/Wazuh_SIEM)
 - <b>Creating Malware Analysis Box</b>
   - [Installation guide](https://github.com/joshuacrull/MalwareAnalysisLab)
 - <b>Malware Anaylysis Reports</b>
