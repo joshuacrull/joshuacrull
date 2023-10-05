@@ -11,10 +11,8 @@
 - <b>Managing OpenSSL Certicate</b>
   - [Lab tutorial](https://github.com/joshuacrull/Managing-Certificates-with-OpenSSL/blob/main/README.md) <br />
 <h2>COMING SOON: </h2><br />
-- <b>VPN Enviroment<b>
+- <b>VPN Enviroment<b><br />
 - <b>Creating C&C Torjan using Steganography</b>
-
-- <b>Hiding Malware with Stengography<b/>
 
 <h2> 🤳 Connect with me:</h2>
 
