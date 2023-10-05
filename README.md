@@ -11,7 +11,6 @@
 - <b>Managing OpenSSL Certicate</b>
   - [Lab tutorial](https://github.com/joshuacrull/Managing-Certificates-with-OpenSSL/blob/main/README.md)
 - <b>VPN Enviroment<b>
-coming soon
 
 <h2> 🤳 Connect with me:</h2>
 
