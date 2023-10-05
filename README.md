@@ -10,7 +10,11 @@
   - [Reports On Malware](https://github.com/joshuacrull/Malware-Analysis-Reports)
 - <b>Managing OpenSSL Certicate</b>
   - [Lab tutorial](https://github.com/joshuacrull/Managing-Certificates-with-OpenSSL/blob/main/README.md)
+COMING SOON: <br />
 - <b>VPN Enviroment<b>
+- <b>Creating C&C Torjan using Steganography</b>
+
+- <b>Hiding Malware with Stengography<b/>
 
 <h2> 🤳 Connect with me:</h2>
 
