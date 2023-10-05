@@ -10,9 +10,8 @@
   - [Reports On Malware](https://github.com/joshuacrull/Malware-Analysis-Reports)
 - <b>Managing OpenSSL Certicate</b>
   - [Lab tutorial](https://github.com/joshuacrull/Managing-Certificates-with-OpenSSL/blob/main/README.md)
-- <b>Splunk SIEM</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>VPN Enviroment<b>
+coming soon
 
 <h2> 🤳 Connect with me:</h2>
 
